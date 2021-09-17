@@ -5,3 +5,5 @@ This is a web app: Imagine that a friend has decided to host a party and has ask
 2. A form that can be used to RSVP. 
 3. Validation for the RSVP form, which will display a thank-you page. 
 4. A summary page that shows who is coming to the party. 
+
+Type of code building this app: HTML, JAVASCRIPT, C# and Css. This is a localhost access only. 
